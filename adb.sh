@@ -9,5 +9,4 @@
 chmod u+x ./adb
 mv ./adb ~/Documents
 touch ~/.zshrc
-echo "export ADB='~/Documents/adb'" >>  ~/.zshrc
-echo "export PATH=\$PATH:\$ADB" >>  ~/.zshrc
+echo "export PATH=\$PATH:~/Documents" >>  ~/.zshrc
