@@ -24,6 +24,8 @@ function isCmdExist() {
 if !(isCmdExist adb); then
   chmod u+x ./adb.sh
   ./adb.sh
+else
+  echo "真棒！你的电脑已经配置过 adb，不需要额外配置了～"
 fi
 
 chmod u+x ./logcat.sh
