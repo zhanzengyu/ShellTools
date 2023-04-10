@@ -16,6 +16,7 @@ else
 fi
 
 adb logcat -c
+adb logcat -G 250m
 echo '日志存入中......'
 echo '请执行完需要的操作后按 ctrl+c 结束'
 echo '然后到桌面查找 '$filename'.txt 文件'
