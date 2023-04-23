@@ -18,9 +18,15 @@ chmod u+x ./init.sh
 ./init.sh;source ~/.zshrc
 ```
 5. 后面需要抓日志的时候只要保证设备连接上，在终端输入 zzylog 即可  
+<br/>
+<hr/>  
 
-觉得有所帮助麻烦点个 **Star**  
+> 觉得有所帮助请点亮右上角的 **Star**  
 
-如果想请作者喝杯咖啡，可以扫下面支持一下  
+<hr/>
+<br/>
+<br/>
 
-![打赏.png](./reward.png)
+> 如果想请作者喝杯咖啡，可以扫下面支持一下  
+
+<img src="./reward.png" width="300px" />
