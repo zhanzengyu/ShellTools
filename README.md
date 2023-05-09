@@ -23,10 +23,4 @@ chmod u+x ./init.sh
 
 > 觉得有所帮助请点亮右上角的 **Star**  
 
-<hr/>
-<br/>
-<br/>
-
-> 如果想请作者喝杯咖啡，可以扫下面支持一下  
-
-<img src="./reward.png" width="300px" />
+<hr/>  
