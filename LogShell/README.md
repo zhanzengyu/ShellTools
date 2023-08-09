@@ -4,7 +4,7 @@
 
 用法
 
-1. 解压 LogShell.zip 到本地
+1. 解压 [LogShell.zip](./LogShell.zip) 到本地
 2. 确保你位于 LogShell 目录下
 3. 执行下面命令给 init.sh 可执行权限
 
